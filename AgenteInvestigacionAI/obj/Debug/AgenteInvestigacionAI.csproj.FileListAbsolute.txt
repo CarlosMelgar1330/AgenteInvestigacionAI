@@ -1,0 +1,34 @@
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\AgenteInvestigacionAI.exe.config
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\AgenteInvestigacionAI.exe
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\AgenteInvestigacionAI.pdb
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\Newtonsoft.Json.dll
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\Newtonsoft.Json.xml
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.csproj.AssemblyReference.cache
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.Properties.Resources.resources
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.csproj.GenerateResource.cache
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.csproj.CoreCompileInputs.cache
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteIn.5E6270C5.Up2Date
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.exe
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.pdb
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\progra1 B\AgenteInvestigacionAI\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.SearchIA.resources
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\AgenteInvestigacionAI.exe.config
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\AgenteInvestigacionAI.exe
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\AgenteInvestigacionAI.pdb
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.dll
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\Newtonsoft.Json.dll
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.xml
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\bin\Debug\Newtonsoft.Json.xml
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.csproj.AssemblyReference.cache
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.SearchIA.resources
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.Properties.Resources.resources
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.csproj.GenerateResource.cache
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.csproj.CoreCompileInputs.cache
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteIn.5E6270C5.Up2Date
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.exe
+C:\progra1 B\AgenteInvestigacionAI - copia\AgenteInvestigacionAI\obj\Debug\AgenteInvestigacionAI.pdb
